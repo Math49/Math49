@@ -2,7 +2,7 @@
 Moi c'est Mathis Mercier, développeur Full-Stack en alternance 👋
 ▫️Actuellement en B3, en train de passer son CDA
 
-##‼️A la recherche d'une alternance pour mon M1-M2 dès sept 2025‼️
+### ‼️A la recherche d'une alternance pour mon M1-M2 dès sept 2025‼️
 
 
 ## 🌐 Pour me contacter:
